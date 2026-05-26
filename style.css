@@ -1,0 +1,8 @@
+body { background: #60f36d; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 59px; display: flex; }
+.block-email-0 { color: #d662f9; font-size: 21px; margin-bottom: 5px; }
+.block-email-1 { color: #567e0a; font-size: 18px; margin-bottom: 5px; }
+.block-invoice-2 { color: #f83af; font-size: 13px; margin-bottom: 5px; }
+.block-token-3 { color: #ccbd50; font-size: 12px; margin-bottom: 5px; }
+.block-database-4 { color: #1aa68; font-size: 12px; margin-bottom: 5px; }
+.block-uploader-5 { color: #8ede3; font-size: 15px; margin-bottom: 5px; }
